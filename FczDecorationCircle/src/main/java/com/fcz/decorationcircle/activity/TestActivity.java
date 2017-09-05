@@ -7,9 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import com.fcz.decorationcircle.R;
 
 /**
+ *
  * Created by Administrator on 2017/9/5 0005.
  */
-
 public class TestActivity extends AppCompatActivity {
 
     @Override
